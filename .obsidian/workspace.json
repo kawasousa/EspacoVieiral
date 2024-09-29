@@ -11,12 +11,8 @@
             "id": "1a855a4a77bb6cad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "InitTest.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -43,6 +39,14 @@
             }
           },
           {
+            "id": "118ba2fb98442d54",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "5dc076db8b16c84b",
             "type": "leaf",
             "state": {
@@ -65,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InitTest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InitTest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,12 +132,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,10 +146,11 @@
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
-      "command-palette:Open command palette": true
+      "command-palette:Open command palette": true,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a855a4a77bb6cad",
+  "active": "c114e4da4c9c30a8",
   "lastOpenFiles": [
     "InitTest.md",
     "Welcome.md"
