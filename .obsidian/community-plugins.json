@@ -1,4 +1,7 @@
 [
   "obsidian-git",
-  "github-sync"
+  "github-sync",
+  "custom-note-width",
+  "open-vscode",
+  "code-files"
 ]

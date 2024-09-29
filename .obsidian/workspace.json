@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4d6ec46d2951e121",
+        "id": "8b6a4ae6ba3d7097",
         "type": "tabs",
         "children": [
           {
-            "id": "1a855a4a77bb6cad",
+            "id": "e99ee1f1a9b7824d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testando....md",
+                "file": "Segundo Período/Análise e Estrutura de Sistemas.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testando....md",
+                "file": "Segundo Período/Análise e Estrutura de Sistemas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testando....md",
+                "file": "Segundo Período/Análise e Estrutura de Sistemas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testando....md"
+                "file": "Segundo Período/Análise e Estrutura de Sistemas.md"
               }
             }
           }
@@ -154,11 +154,20 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "obsidian-git:Open Git source control": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "open-vscode:VSCode": false,
+      "code-files:Create Code File": false
     }
   },
   "active": "118ba2fb98442d54",
   "lastOpenFiles": [
+    "Segundo Período/Arquitetura de Computadores.md",
+    "Segundo Período/Análise e Estrutura de Sistemas.md",
+    "Segundo Período/Metodologia de Extensão.md",
+    "Segundo Período/Banco de Dados.md",
+    "Segundo Período/Engenharia de Software.md",
+    "Segundo Período/Estrutura de Dados.md",
+    "Segundo Período",
     "Testando....md",
     "InitTest.md",
     "Welcome.md"
