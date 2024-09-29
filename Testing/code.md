@@ -4,19 +4,9 @@ def main():
 main()
 ```
 
-```javascript
+```js
 function main(){
 	console.log("C devia ser proibido por lei em todo o território piauiense.");
+	console.log("(só testando se dá certo)");
 }
 ```
-
-```csharp
-class Program
-{
-	static void Main(string[] args)
-	{
-		Console.WriteLine("Que diabos eu to fazendo?!");
-	}
-}
-```
-
