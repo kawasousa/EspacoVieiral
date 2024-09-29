@@ -11,8 +11,12 @@
             "id": "1a855a4a77bb6cad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Testando....md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Testando....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Testando....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InitTest.md"
+                "file": "Testando....md"
               }
             }
           }
@@ -147,11 +153,13 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "c114e4da4c9c30a8",
+  "active": "118ba2fb98442d54",
   "lastOpenFiles": [
+    "Testando....md",
     "InitTest.md",
     "Welcome.md"
   ]
