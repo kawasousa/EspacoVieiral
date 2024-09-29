@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "⚙",
       "LiDatabase",
       "2️⃣"
     ],
@@ -30,6 +31,5 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "Segundo Período": "2️⃣",
-  "Segundo Período/Banco de Dados.md": "LiDatabase"
+  "Segundo Período": "2️⃣"
 }

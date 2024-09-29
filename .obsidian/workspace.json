@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/code.md",
+                "file": "doc/code.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "d01ae8d5003a034f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/code.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 259.5
   },
   "right": {
     "id": "372cc281e901abeb",
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/code.md",
+                "file": "doc/code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/code.md",
+                "file": "doc/code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/code.md"
+                "file": "doc/code.md"
               }
             }
           }
@@ -167,21 +154,25 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
+      "obsidian-git:Open Git source control": false,
       "github-sync:Sync with Remote": false,
+      "cmdr:Git: Push": false,
+      "cmdr:Git: Commit staged": false,
+      "cmdr:Git: Stage current file": false,
       "open-vscode:VSCode": false,
-      "code-files:Create Code File": false,
-      "obsidian-git:Open Git source control": false
+      "cmdr:Git: Pull": false,
+      "cmdr:Open settings": false
     }
   },
-  "active": "d01ae8d5003a034f",
+  "active": "118ba2fb98442d54",
   "lastOpenFiles": [
     "README.md",
-    "Testing/code.md",
+    "doc/code.md",
     "Testing/testing.py",
     "testing.py",
     "Testing/Codes.md",
     "Segundo Período/Análise e Estrutura de Sistemas.md",
-    "Testing",
+    "doc",
     "Segundo Período/Arquitetura de Computadores.md",
     "Segundo Período/Metodologia de Extensão.md",
     "Segundo Período/Banco de Dados.md",
