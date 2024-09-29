@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "8b6a4ae6ba3d7097",
+        "id": "655f2253f520fd8f",
         "type": "tabs",
         "children": [
           {
-            "id": "e99ee1f1a9b7824d",
+            "id": "26f660eea82fcc13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segundo Período/Análise e Estrutura de Sistemas.md",
+                "file": "Testing/code.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "31f9ee02296ec092",
+            "id": "d01ae8d5003a034f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Testing/code.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Testing/code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Testing/code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Testing/code.md"
               }
             }
           }
@@ -167,16 +167,21 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "obsidian-git:Open Git source control": false,
       "github-sync:Sync with Remote": false,
       "open-vscode:VSCode": false,
-      "code-files:Create Code File": false
+      "code-files:Create Code File": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31f9ee02296ec092",
+  "active": "118ba2fb98442d54",
   "lastOpenFiles": [
-    "Segundo Período/Análise e Estrutura de Sistemas.md",
     "README.md",
+    "Testing/code.md",
+    "Testing/testing.py",
+    "testing.py",
+    "Testing/Codes.md",
+    "Segundo Período/Análise e Estrutura de Sistemas.md",
+    "Testing",
     "Segundo Período/Arquitetura de Computadores.md",
     "Segundo Período/Metodologia de Extensão.md",
     "Segundo Período/Banco de Dados.md",
