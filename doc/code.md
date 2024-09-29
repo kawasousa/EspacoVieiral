@@ -15,3 +15,9 @@ function main(){
 main();
 ```
 
+
+```csharp
+Console.WriteLine("Test");
+string name = Console.ReadLine();
+Console.WriteLine(name);
+```
