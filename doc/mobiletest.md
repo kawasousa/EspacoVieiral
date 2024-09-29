@@ -1,0 +1,1 @@
+esse texto foi escrito pelo celular
