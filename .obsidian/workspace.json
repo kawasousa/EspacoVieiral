@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "035a16c4010a77af",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d6ec46d2951e121",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a855a4a77bb6cad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "InitTest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "054ea27aeae92897",
+    "type": "split",
+    "children": [
+      {
+        "id": "51afd1580ec1a9c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c114e4da4c9c30a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5dc076db8b16c84b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c0c3d02e4aaf940a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "372cc281e901abeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "336acb1ba86f7cdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc5447b71702b97f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "InitTest.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ffbf977f443a5b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "InitTest.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7685af9cf04c1e5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "00dc56b247203d75",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "InitTest.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true
+    }
+  },
+  "active": "1a855a4a77bb6cad",
+  "lastOpenFiles": [
+    "InitTest.md",
+    "Welcome.md"
+  ]
+}
