@@ -6,7 +6,7 @@ main()
 
 ```javascript
 function main(){
-	console.log("C devia ser proibido.");
+	console.log("C devia ser proibido por lei em todo o território piauiense.");
 }
 ```
 
@@ -19,6 +19,4 @@ class Program
 	}
 }
 ```
-
-
 
