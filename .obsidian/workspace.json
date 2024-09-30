@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d1eafbc7b3a84405",
+        "id": "2f15f9251f58ff52",
         "type": "tabs",
         "children": [
           {
-            "id": "0ce2785fe45ba93a",
+            "id": "64dcbe6294527a81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "doc/code.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "doc/code.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "doc/code.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "doc/code.md"
+                "file": "README.md"
               }
             }
           }
@@ -167,8 +167,8 @@
   "active": "118ba2fb98442d54",
   "lastOpenFiles": [
     "doc/mobiletest.md",
-    "doc/Teste.md",
     "doc/code.md",
+    "doc/Teste.md",
     "README.md",
     "Segundo Período/Programação Orientada a Objetos.md",
     "Segundo Período/Análise e Projetos de Sistemas.md",
