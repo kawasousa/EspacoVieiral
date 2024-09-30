@@ -1,7 +1,6 @@
 # Espaço Vieiral
 
 ###### Anotações e  resumos - ADS 2024.1
----
 ## Como conectar ao Obsidian
 1. Abra o explorador de arquivos na pasta onde ficará a pasta EspacoVeiral
 2. Abra o *git bash* na pasta.
