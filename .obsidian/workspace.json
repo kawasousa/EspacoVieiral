@@ -156,12 +156,12 @@
       "command-palette:Open command palette": true,
       "obsidian-git:Open Git source control": false,
       "github-sync:Sync with Remote": false,
-      "cmdr:Git: Push": false,
-      "cmdr:Git: Commit staged": false,
-      "cmdr:Git: Stage current file": false,
       "open-vscode:VSCode": false,
+      "cmdr:Open settings": false,
       "cmdr:Git: Pull": false,
-      "cmdr:Open settings": false
+      "cmdr:Git: Stage current file": false,
+      "cmdr:Git: Commit staged": false,
+      "cmdr:Git: Push": false
     }
   },
   "active": "118ba2fb98442d54",
