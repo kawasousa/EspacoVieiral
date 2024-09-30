@@ -1,4 +1,4 @@
-*ligar o modo somente leitura antes de rodar o código.*
+*ligar o modo leitura (ctrl+e para alternar) antes de rodar o código.*
 
 ```python
 def main():
