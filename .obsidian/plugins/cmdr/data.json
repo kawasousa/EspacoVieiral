@@ -44,7 +44,14 @@
   "explorer": [],
   "hide": {
     "statusbar": [],
-    "leftRibbon": []
+    "leftRibbon": [
+      "Open graph view",
+      "Open quick switcher",
+      "Create new canvas",
+      "Open today's daily note",
+      "Insert template",
+      "Open command palette"
+    ]
   },
   "spacing": 8,
   "advancedToolbar": {
