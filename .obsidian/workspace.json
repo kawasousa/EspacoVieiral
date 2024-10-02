@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,7 +164,7 @@
       "cmdr:Git: Open file on GitHub": false
     }
   },
-  "active": "118ba2fb98442d54",
+  "active": "c114e4da4c9c30a8",
   "lastOpenFiles": [
     "Segundo Período/Sistemas Operacionais.md",
     "Segundo Período/Programação Orientada a Objetos.md",
