@@ -14,3 +14,4 @@ Banco de Dados II
 ### Assuntos
 - Modelagem de dados
 - Normalização e Algebra Relacional (lógica por trás do SQL)
+//Anotações inacabadas
