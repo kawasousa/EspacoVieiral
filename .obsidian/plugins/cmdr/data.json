@@ -56,7 +56,8 @@
       "Create new canvas",
       "Open today's daily note",
       "Insert template",
-      "Open command palette"
+      "Open command palette",
+      "Sync with Remote"
     ]
   },
   "spacing": 8,
