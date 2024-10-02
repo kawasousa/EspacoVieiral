@@ -32,5 +32,3 @@ Linha de estudo da extensão
 - Metodologia de extensão: diagnóstico, planejamento, execução e avaliação;
 
 *Obs.: A pesquisa de extensão pode ser usada para sugerir políticas públicas.*
-
-cu
