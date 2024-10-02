@@ -34,6 +34,12 @@
       "icon": "arrow-up-circle",
       "name": "Git: Push",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-git:view-file-on-github",
+      "icon": "anchor",
+      "name": "Git: Open file on GitHub",
+      "mode": "any"
     }
   ],
   "rightRibbon": [],

@@ -161,7 +161,8 @@
       "cmdr:Git: Pull": false,
       "cmdr:Git: Stage current file": false,
       "cmdr:Git: Commit staged": false,
-      "cmdr:Git: Push": false
+      "cmdr:Git: Push": false,
+      "cmdr:Git: Open file on GitHub": false
     }
   },
   "active": "118ba2fb98442d54",
