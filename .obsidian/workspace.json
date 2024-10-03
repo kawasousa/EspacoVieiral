@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c16c7e57a4b8bdd1",
+            "id": "dfae8ee800b412a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segundo Período/Análise e Projeto de Sistemas/Aula 01.md",
+                "file": "Segundo Período/Estrutura de Dados 1/Aula 01.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segundo Período/Análise e Projeto de Sistemas/Aula 01.md",
+                "file": "Segundo Período/Estrutura de Dados 1/Aula 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segundo Período/Análise e Projeto de Sistemas/Aula 01.md",
+                "file": "Segundo Período/Estrutura de Dados 1/Aula 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segundo Período/Análise e Projeto de Sistemas/Aula 01.md"
+                "file": "Segundo Período/Estrutura de Dados 1/Aula 01.md"
               }
             }
           }
@@ -165,11 +165,12 @@
       "cmdr:Git: Push": false
     }
   },
-  "active": "c16c7e57a4b8bdd1",
+  "active": "dfae8ee800b412a1",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Segundo Período/Análise e Projeto de Sistemas",
     "Segundo Período/Análise e Projeto de Sistemas/Aula 01.md",
+    "Segundo Período/Estrutura de Dados 1/Aula 01.md",
+    "Segundo Período/Estrutura de Dados 1",
+    "Segundo Período/Análise e Projeto de Sistemas",
     "Segundo Período/Banco de Dados.md",
     "Segundo Período/Sistemas Operacionais.md",
     "Segundo Período/Estrutura de Dados.md",
