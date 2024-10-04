@@ -18,7 +18,7 @@ Banco de Dados II
 - c
 - c
 
-## modelagem de BD
+## Modelagem de BD
 
 ### → O que é modelagem de Banco de dados?
 
