@@ -33,6 +33,9 @@ SGBD é
 ## Detalhes e Considerações
 ### Links e Referências
 [Guia SGBD - fiveacts](https://www.fiveacts.com.br/sgbd)
+
 [O que é Database Clustering- HarperDB](https://www.harperdb.io/post/what-is-database-clustering#:~:text=Clustering%20with%20HarperDB-,What%20is%20a%20database%20cluster%3F,database%20server%20called%20the%20master.)
+
 [Sobre o PostgreSQL - PostgreSQL](https://www.postgresql.org/about/)
+
 [Instalando o PostegreSQL e criando um banco de dados - Canal Hashtag Programação](https://youtu.be/L_2l8XTCPAE?si=26VFnS2mN6-xplWL)
