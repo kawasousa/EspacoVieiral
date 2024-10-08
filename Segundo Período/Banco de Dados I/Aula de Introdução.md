@@ -25,11 +25,32 @@ Banco de Dados NoSQL (não relacionais) são usados em contextos em que a facili
 Bancos de dados podem ser acessados diretamente por aplicações, recebendo instruções e devolvendo informações. Essa relação, porém, limita o fluxo de dados por não permitir que múltiplas aplicações façam requisições ao mesmo tempo. Numa relação Aplicação-BD, dados são alterados e a falta de um gerenciador pode gerar dados inconsistentes.
 A partir dessa 
 ### O que é um SGBD
-SGBD é 
+SGBD é uma classificação de programas que define um sistema responsável por gravar, relacionar e manipular dados para o funcionamento de um programa.
 ### Responsabilidades de um SGBD
 - Acesso concorrente - Múltiplas aplicações acessando o mesmo dado ao mesmo tempo.
 - Tolerância a falha - Evitar que informações erradas surjam no caso de parada do sistema ou erro na sequência de instruções.
 - Controle de acesso - Todas as aplicações estão sujeitas às mesmas regras
+
+### Pra que serve um SGBD
+- Criar relação entre tabelas
+	- Assim, pode-se obter informações relevantes sobre os dados armazenados.
+- Eliminar e copiar arquivos
+	- Evitar redundâncias e armazenamento de dados obsoletos.
+- Efetuar consultas em tabelas
+- Deixar a vida do programador mais fácil
+	Todo sistema gerenciador de banco de dados pode ser substituído por uma aplicação dedicada àquele banco de dados. Isso, porém, é mais custoso à equipe de programação.
+
+### Tipos de SGBD
+- Relacionais
+	Cuja função é conectar dado de diferentes origens
+- Não Relacionais
+	A estrutura de dados não é previamente definida
+- Hierárquico
+	Formato mais antigo onde os dados são organizados em uma disposição piramidal
+- De Rede
+	Cada dado-filho pode ter mais de um dado-pai e a estrutura de dados se assemelha a uma teia de aranha
+- Orientado a Objetos
+	Modelo mais avançado em que diferentes tipos de dados se mesclam, sendo, por isso, mais caro de implementar
 ## Detalhes e Considerações
 ### Links e Referências
 [Guia SGBD - fiveacts](https://www.fiveacts.com.br/sgbd)
