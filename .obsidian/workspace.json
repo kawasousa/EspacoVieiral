@@ -11,12 +11,8 @@
             "id": "0e2556637831cdfb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,7 +140,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "cmdr:Git: Open file on GitHub": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -162,14 +153,15 @@
       "cmdr:Git: Pull": false,
       "cmdr:Git: Stage current file": false,
       "cmdr:Git: Commit staged": false,
-      "cmdr:Git: Push": false
+      "cmdr:Git: Push": false,
+      "cmdr:Git: Open file on GitHub": false
     }
   },
-  "active": "0e2556637831cdfb",
+  "active": "118ba2fb98442d54",
   "lastOpenFiles": [
-    "Segundo Período/Estrutura de Dados 1/Aula 01.md",
     "Untitled 1.md",
     "conflict-files-obsidian-git.md",
+    "Segundo Período/Estrutura de Dados 1/Aula 01.md",
     "Segundo Período/Programação Orientada a Objetos/Apresentação da Disciplina.md",
     "Segundo Período/Programação Orientada a Objetos",
     "Segundo Período/Banco de Dados/Modelagem de BD.md",
