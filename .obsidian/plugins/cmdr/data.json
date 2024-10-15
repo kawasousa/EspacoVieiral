@@ -40,6 +40,12 @@
       "icon": "anchor",
       "name": "Git: Open file on GitHub",
       "mode": "any"
+    },
+    {
+      "id": "file-explorer:open",
+      "icon": "lucide-files",
+      "name": "Files: Show file explorer",
+      "mode": "any"
     }
   ],
   "rightRibbon": [],

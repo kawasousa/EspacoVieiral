@@ -11,8 +11,12 @@
             "id": "0e2556637831cdfb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Segundo Período/Metodologia de Extensão.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Segundo Período/Metodologia de Extensão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Segundo Período/Metodologia de Extensão.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Segundo Período/Metodologia de Extensão.md"
+              }
             }
           }
         ],
@@ -144,11 +152,11 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "github-sync:Sync with Remote": false,
       "open-vscode:VSCode": false,
+      "cmdr:Files: Show file explorer": true,
       "cmdr:Open settings": false,
       "cmdr:Git: Pull": false,
       "cmdr:Git: Stage current file": false,
@@ -159,9 +167,15 @@
   },
   "active": "118ba2fb98442d54",
   "lastOpenFiles": [
+    "Segundo Período/Arquitetura de Computadores.md",
+    "Segundo Período/Metodologia de Extensão.md",
+    "Segundo Período/Engenharia de Software.md",
+    "Segundo Período/Estrutura de Dados.md",
+    "Segundo Período/Programação Orientada a Objetos.md",
+    "Segundo Período/Sistemas Operacionais.md",
+    "Segundo Período/Estrutura de Dados 1/Aula 01.md",
     "Untitled 1.md",
     "conflict-files-obsidian-git.md",
-    "Segundo Período/Estrutura de Dados 1/Aula 01.md",
     "Segundo Período/Programação Orientada a Objetos/Apresentação da Disciplina.md",
     "Segundo Período/Programação Orientada a Objetos",
     "Segundo Período/Banco de Dados/Modelagem de BD.md",
@@ -176,12 +190,6 @@
     "Segundo Período/Estrutura de Dados 1",
     "Segundo Período/Análise e Projeto de Sistemas",
     "Segundo Período/Banco de Dados.md",
-    "Segundo Período/Sistemas Operacionais.md",
-    "Segundo Período/Estrutura de Dados.md",
-    "Segundo Período/Engenharia de Software.md",
-    "Segundo Período/Programação Orientada a Objetos.md",
-    "Segundo Período/Arquitetura de Computadores.md",
-    "Segundo Período/Metodologia de Extensão.md",
     "doc/code.md",
     "doc/Teste.md",
     "doc/mobiletest.md",
