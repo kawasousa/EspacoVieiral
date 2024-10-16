@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "be6cf4f5d118675b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segundo Período/Análise e Projeto de Sistemas/Aula 02.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segundo Período/Análise e Projeto de Sistemas/Aula 02.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segundo Período/Análise e Projeto de Sistemas/Aula 02.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -164,10 +178,11 @@
       "cmdr:Git: Push": false
     }
   },
-  "active": "53a30aa3a721b837",
+  "active": "118ba2fb98442d54",
   "lastOpenFiles": [
-    "Segundo Período/Análise e Projeto de Sistemas/Aula 01.md",
     "Segundo Período/Análise e Projeto de Sistemas/Aula 02.md",
+    "Untitled.md",
+    "Segundo Período/Análise e Projeto de Sistemas/Aula 01.md",
     "Segundo Período/Estrutura de Dados 1/Aula 01.md",
     "conflict-files-obsidian-git.md",
     "Untitled 1.md",
@@ -180,7 +195,6 @@
     "Segundo Período/Banco de Dados I",
     "Segundo Período/Arquitetura de Computadores/Estrutura Básica de Computadores.md",
     "Segundo Período/Arquitetura de Computadores",
-    "Untitled.md",
     "Segundo Período/Estrutura de Dados 1",
     "Segundo Período/Análise e Projeto de Sistemas",
     "Segundo Período/Banco de Dados.md",
